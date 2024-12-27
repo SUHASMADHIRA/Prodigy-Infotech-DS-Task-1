@@ -1,4 +1,3 @@
-# Prodigy-Infotech-DS-Task-2
 # Prodigy InfoTech Data Science Internship Task 1:
 <br>
 <img src="https://github.com/kindo-tk/PRODIGY_DS_01/blob/main/ds1.png"   >
